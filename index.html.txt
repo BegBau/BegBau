@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BEG BAU - Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        nav a:hover {
+            color: #007BFF;
+        }
+        .section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 0rem;
+          
+            
+          
+        }
+    </style>
+<header>
+    <div class="header-content">
+        <img src="https://assets.onecompiler.app/43d2d3qsy/43d2byv2f/IMG-20250327-WA0002.jpg" alt="BEG BAU logo" style="max-width: 120px; height: auto;">
+        <h1>BEG BAU</h1>
+        <p>Ihr Projekt, unsere Priorität</p>
+        <style>
+    /* ... your existing styles ... */
+    .header-content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px; /* Space between logo and text */
+    }
+    header img {
+        margin: 10px;
+    }
+</style>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">Über uns</a>
+        <a href="#services">Leistungen</a>
+        <a href="#contact">Kontakt</a>
+    </nav>
+
+    <div class="section" id="home">
+        <h2>Über uns</h2>
+        <p>Beg Bau ist eine spezialisierte Bau und Abrissfirma, die sich sowohl auf den Neubau von Gebäuden als auch auf deren sicheren und effizienten Abriss konzentriert. Mit jahrelanger Erfahrung in der Baubranche bietet Beg Bau maßgeschneiderte Lösungen für private, gewerbliche und industrielle Bauprojekte.
+
+Im Bereich des Bauens übernimmt Beg Bau sämtliche Schritte, von der Planung bis hin zur Fertigstellung des Projekts. Die Firma arbeitet eng mit ihren Kunden zusammen, um individuelle Wünsche und Anforderungen zu berücksichtigen, dabei kommen moderne Baumethoden und nachhaltige Materialien zum Einsatz, um langlebige und energieeffiziente Gebäude zu errichten. Vom Einfamilienhaus bis hin zu größeren gewerblichen oder industriellen Bauvorhaben wird jedes Projekt mit höchster Präzision und Fachkompetenz umgesetzt.
+
+Im Bereich Abriss sorgt Beg Bau dafür, dass der Rückbau von alten Gebäuden schnell, sicher und umweltbewusst durchgeführt wird. Das Unternehmen stellt sicher, dass alle Abläufe gemäß den aktuellen Sicherheitsstandards und Umweltvorgaben ablaufen. Neben dem Abriss selbst kümmert sich Beg Bau auch um die fachgerechte Entsorgung von Bauschutt sowie das Recycling von Materialien, um die Umwelt zu schonen und Ressourcen effizient zu nutzen.
+
+Beg Bau legt großen Wert auf die Einhaltung aller gesetzlichen Vorschriften, insbesondere im Hinblick auf den sicheren Umgang mit Baustellen und potenziell gefährlichen Materialien. Die hohe Expertise der Mitarbeiter garantiert einen reibungslosen Ablauf der Bau- und Abrissprojekte, bei denen Qualität, Termintreue und Kundenzufriedenheit immer an erster Stelle stehen.
+
+Mit einem starken Fokus auf Professionalität, Transparenz und ein gutes Preis-Leistungs-Verhältnis ist Beg Bau die ideale Wahl für all Ihre Bau- und Abrissvorhaben.</p>
+    </div>
+
+    
+
+    <div class="section" id="services">
+        <h2>Leistungen</h2>
+        <ul>
+            <li>Abrissarbeiten, Entkernung, Demontage, Sperrmüllentsorgung</li>
+            <li>Malerarbeiten, Lackierungen, Trockenbau, Fasadenarbeiten</li>
+            <li>Fliesenverlegung, Spachtelarbeiten, Pflasterarbeiten</li>
+            <li>Kernbohrung, Rohbau, Tiefbau, Eisenflechter, Metallpolierer</li>
+        </ul>
+    </div>
+    <div class="section" id="contact">
+        <h2>Kontakt</h2>
+        <p>Email: kontakt.begbau@gmail.com </p>
+        <p>Tel: +491732355574</p>
+        
+        <p>Adresse: Lange Seite 46, 99887 Georgenthal, Deutschland</p>
+    </div>
+      
+    <footer>
+    
+        <p>&copy; 2023 BEG BAU. Alle Rechte vorbehalten.</p>
+    
+  </footer>
+
+
+</body>
+</html>
+
+
+
